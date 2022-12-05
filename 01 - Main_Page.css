@@ -1,0 +1,20 @@
+/*The main page*/
+body{
+    font-family: sans-serif;
+    
+}
+
+.div2048 {
+
+    margin-left: 250px;
+
+}
+.div2048img{
+    margin-left: 100px;
+    image-resolution: 256;   
+}
+
+.tbl{
+    margin-left:100px;
+
+}

@@ -1,6 +1,7 @@
 /*The main page*/
 body{
     font-family: sans-serif;
+    /* font-size:30px; */
     
 }
 
@@ -18,3 +19,8 @@ body{
     margin-left:100px;
 
 }
+
+.txt2048{
+    font-size: x-large;
+}
+

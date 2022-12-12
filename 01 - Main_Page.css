@@ -5,7 +5,7 @@ body{
     
 }
 
-.div2048 {
+.tHeader {
 
     margin-left: 250px;
 
@@ -15,12 +15,12 @@ body{
     image-resolution: 256;   
 }
 
-.tbl{
+#tbl{
     margin-left:100px;
 
 }
 
-.txt2048{
-    font-size: x-large;
+.txtgame{
+    font-size: 20px;
 }
 

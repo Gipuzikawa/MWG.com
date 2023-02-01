@@ -1,0 +1,15 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.tHeader{
+    width: 100px;
+    height: 50px;
+}
+
+.tButton{
+    width: 100px;
+    height: 50px;
+    margin-top: 30px;
+}
